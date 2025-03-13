@@ -3,7 +3,7 @@
 - Currently a Junior Research Fellow in Machine Learning, focusing on Information Retrieval and Recommender Systems at Sapienza University of Rome.
 - Graduated in MSc in Engineering in Computer Science in 2024 at Sapienza University of Rome.
 - Graduated in Bsc in Computer and Automation Engineering in 2022 at Sapienza University of Rome.
-- Contact: [email](mailto:dianacalugaru11@yahoo.com)
+- Contact: [dianacalugaru11@yahoo.com](mailto:dianacalugaru11@yahoo.com)
 <!--
 **mariadianacalugaru/mariadianacalugaru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
