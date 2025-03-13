@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi, I'm Maria Diana Calugaru 👋
+
+- Currently a Junion Research Fellow in Machine Learning, focusing on Information Retrieval and Recommender Systems at Sapienza University of Rome.
+- Graduated in MSc in Engineering in Computer Science in 2024
+- Graduated in Bsc in Computer and Automation Engineering in 2022
 
 <!--
 **mariadianacalugaru/mariadianacalugaru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
